@@ -1,0 +1,37 @@
+# Python & Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3-journal
+media/
+staticfiles/
+
+# Environment Variables
+.env
+!.env.example
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
